@@ -36,11 +36,24 @@ Wi-Fi接続に必要なssidとpasswordを設定する．
 マルチキャストアドレスとポートは適切なものを設定する．
 
 ## クライアントの実行結果
-120回の内，1回目の部分を抜粋する．
+
+結果の一部を抜粋
+
+
+![image](https://github.com/user-attachments/assets/17ce67c3-87c4-4635-885e-b24e1b5319c9)
+
+![image](https://github.com/user-attachments/assets/c6ec4887-ecb5-4beb-ac44-90f3da1ae982)
+
+※消費電力の値は正しいピン配置を行えば取得出来る．
+
+
 
 
 ## サーバの実行結果
-クライアントの実行結果と同様に120回の内，1回目の部分を抜粋する．
+結果の一部を抜粋
+
+![image](https://github.com/user-attachments/assets/e91ad22e-3f51-42e3-8160-96190bbd833b)
+
 
 
 
