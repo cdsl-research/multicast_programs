@@ -574,8 +574,8 @@ def print_missing_packets():
 async def main():
     global sta_if, packet_loss_list, in_pmg, mcast_sock, unicast_sock, program_finished, duplicate_packets, program_start_time,CLIENT_IP,unicast_duplicate_packets,received_sequence_numbers
 
-    ssid = "CDSL-A910-11n"
-    password = "11n-ky56$HDxgp"
+    ssid = "your_ssid"
+    password = "your_password"
 
     if connect_wifi(ssid, password):
         machine.Pin(2, machine.Pin.OUT).value(1)
